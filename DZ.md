@@ -20,8 +20,11 @@ git add
 ```sh
 git commit -m "Text"
 ```
+## Перемещене между коммитами
+Чтобы перемещаться между коммитами используйте команду
+```sh
 git checkout
-
+```
 git checkout master
 
 git log
