@@ -10,17 +10,20 @@ git init
 ```sh
 git status
 ```
+## Отслеживание GITом файла
+  Отслеживание файла GITом осуществляется командой:
+  ```sh
 git add 
-
+```
 git commit -m "Text"
 
 git checkout
 
-git checkout --oneline
-
 git checkout master
 
 git log
+
+git log --oneline
 
 cd
 
