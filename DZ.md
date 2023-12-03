@@ -25,8 +25,10 @@ git commit -m "Text"
 ```sh
 git checkout
 ```
+Чтобы вернуться к текущему (актульному) состоянию используйте команду
+```sh
 git checkout master
-
+```
 git log
 
 git log --oneline
